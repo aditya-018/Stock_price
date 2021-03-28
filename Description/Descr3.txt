@@ -1,0 +1,32 @@
+Standard deviation: It is the measurement of the dispersion away from the mean.
+
+The more spread the data is, the higher the standard deviation.
+
+Volatile stocks have high standard deviation and therefore standard deviation represents
+the risks that is associated with security.
+
+
+Standard Deviation  σ= √((∑_(i=1)^n(x-x ̅ )^2 )/(n-1))
+Where,
+x = Value at index i
+x ̅ = mean value
+n = total number of datapoints in dataset.
+
+Sharp ratio: It is used by investers to calculate the return of an investment compared to its risk
+
+Sharp ratio is calculated as follows:
+
+Sharp ratio = (Rp – Rf)/σp 
+
+Where,
+Rp = return of the security
+Rf  = risk free return
+σp = Standard deviation
+
+Sharp ratio is  a simple calculation of the average return earned in excess of the risk free 
+rate(Govt Bonds) per unit of risk.
+
+Here Rf is risk free rate of return which is the return on an investment with zero risk, i.e it’s 
+return investors could except for taking no risks.
+
+As Sharp ratio increases, risk adjusted return increases and security becomes more desired by investors.

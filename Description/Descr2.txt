@@ -1,0 +1,9 @@
+Daily and Cumulative returns:
+
+Stock daily returns is a calculation of how much investors have gaines/lost per day
+
+Stock daily return = [(Closng stock price at t(today) – Closing stock price at t-1(yesterday))/closing stock at t-1]
+
+Cumulative return is a measure of the aggregate amount that the stock gained or lost over a period of time.
+
+Stock cumulative return =  (Current price of stock – Original price of stock)/Original price of stock.
