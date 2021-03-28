@@ -23,6 +23,8 @@ be allocated to the stocks.
 For-ex: If the age of a client is 30yrs, then he/she would be having a 70% allocation in your stocks.
 
 The rate of risk is higher associated with high returns.
+
+
 ![Prices](https://user-images.githubusercontent.com/52133349/112749367-8bbf9680-8fdf-11eb-883c-9a22c759aabc.png)
 
 
