@@ -28,3 +28,5 @@ The rate of risk is higher associated with high returns.
 ![Prices](https://user-images.githubusercontent.com/52133349/112749367-8bbf9680-8fdf-11eb-883c-9a22c759aabc.png)
 
 Note: The weights that we use to caculate the portfolio return, cumulative return, stock return, etc.. is randomly and these values changes as you re run the weights cell again.
+
+The Stock price is predicted using Linear regression.
