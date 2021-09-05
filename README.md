@@ -29,4 +29,4 @@ The rate of risk is higher associated with high returns.
 
 Note: The weights that we use to caculate the portfolio return, cumulative return, stock return, etc.. is randomly and these values changes as you re run the weights cell again.
 
-The Stock price is predicted using Linear regression.
+The Stock price of Apple inc is predicted using Linear regression.
